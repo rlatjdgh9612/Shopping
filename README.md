@@ -1,7 +1,7 @@
 # Shopping
 KFood_Shopping App
 
-Shopping앱 프로젝트는 외국인들을 대상으로 한국음식을 배달 App 처럼 먹고싶은 음식을 고른후에 Apple Pay로 결제하여 배달할수 있도록 구현한 iOS App 프로젝트 입니다
+Shopping앱 프로젝트는 한국에 살고있는 외국인들을 대상으로 한국음식을 배달 App 처럼 먹고싶은 음식을 고른후에 Apple Pay로 결제할수 있도록 구현한 iOS App 프로젝트 입니다
 
 ### 이런 기능이 있습니다
 - 배달 App처럼 먹고싶은 한국음식을 장바구니에 추가후 최종금액을 Apple Pay로 결제하여 이용할수 있는 기능이 있습니다.
